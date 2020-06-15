@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Cocktail Passion</string>
+    <string name="drink_thumbnail">Drink thumbnail</string>
+    <string name="str_ingredients">Ingredients</string>
+    <string name="str_instructions">Instructions</string>
+    <string name="text_search">Search Cocktail by Name</string>
+    <string name="text_by_name">by Name</string>
+    <string name="text_by_ingredient">by Ingredient</string>
+    <string name="text_search2">Search</string>
+    <string name="qb">q.s.</string>
+    <string name="delete_all">Delete All</string>
+    <string name="cocktail">cocktail</string>
+    <string name="about">About</string>
+    <string name="add_favorites">Add favorites</string>
+    <string name="select_all">Select All</string>
+    <string name="unselect">Unselect</string>
+</resources>

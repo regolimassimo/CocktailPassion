@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cocktail Passion</string>
+    <string name="drink_thumbnail">Immagine Drink</string>
+    <string name="str_ingredients">Ingredienti</string>
+    <string name="str_instructions">Istruzioni</string>
+    <string name="text_search">Cerca per Nome</string>
+    <string name="text_by_name">Cerca per Nome</string>
+    <string name="text_by_ingredient">Cerca per Ingrediente</string>
+    <string name="text_search2">Cerca</string>
+    <string name="qb">q.b.</string>
+</resources>

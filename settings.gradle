@@ -1,0 +1,2 @@
+rootProject.name='Cocktail Passion'
+include ':app'

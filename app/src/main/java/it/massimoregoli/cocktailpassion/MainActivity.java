@@ -114,7 +114,7 @@ public class MainActivity extends AppCompatActivity
     CocktailListViewModel clm =
         new ViewModelProvider(MainActivity.this)
             .get(CocktailListViewModel.class);
-    clm.setCocktails(cocktailAdapter.getCocktails());
+//    clm.setCocktails(cocktailAdapter.getCocktails());
   }
 
   class Holder implements View.OnClickListener, TextView.OnEditorActionListener {
